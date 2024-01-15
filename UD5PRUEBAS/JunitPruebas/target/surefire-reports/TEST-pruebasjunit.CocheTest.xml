@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="pruebasjunit.CocheTest" time="0.054" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="pruebasjunit.CocheTest" time="0.056" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="E:\code\EDESARR\UD5PRUEBAS\JunitPruebas\target\test-classes;E:\code\EDESARR\UD5PRUEBAS\JunitPruebas\target\classes;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jordi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.class.path" value="E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas\target\test-classes;E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas\target\classes;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jordi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,10 +15,10 @@
     <property name="user.country" value="ES"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Jordi\AppData\Local\Temp\surefire8153467040977074200\surefirebooter18173652606295374313.jar C:\Users\Jordi\AppData\Local\Temp\surefire8153467040977074200 2024-01-14T23-12-41_316-jvmRun1 surefire18277258191773411003tmp surefire_014966587536830791939tmp"/>
+    <property name="sun.java.command" value="C:\Users\Jordi\AppData\Local\Temp\surefire12860256072548088764\surefirebooter3534997816685783571.jar C:\Users\Jordi\AppData\Local\Temp\surefire12860256072548088764 2024-01-14T23-25-53_201-jvmRun1 surefire15710651983956858001tmp surefire_014790014706556784569tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="pruebasjunit.CocheTest"/>
-    <property name="surefire.test.class.path" value="E:\code\EDESARR\UD5PRUEBAS\JunitPruebas\target\test-classes;E:\code\EDESARR\UD5PRUEBAS\JunitPruebas\target\classes;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jordi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="surefire.test.class.path" value="E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas\target\test-classes;E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas\target\classes;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Jordi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Jordi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Jordi"/>
     <property name="user.language" value="es"/>
@@ -26,12 +26,12 @@
     <property name="java.version.date" value="2023-01-17"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="E:\code\EDESARR\UD5PRUEBAS\JunitPruebas"/>
+    <property name="basedir" value="E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Jordi\AppData\Local\Temp\surefire8153467040977074200\surefirebooter18173652606295374313.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jordi\AppData\Local\Temp\surefire12860256072548088764\surefirebooter3534997816685783571.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
@@ -46,7 +46,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Jordi\AppData\Local\Temp\"/>
     <property name="java.version" value="17.0.6"/>
-    <property name="user.dir" value="E:\code\EDESARR\UD5PRUEBAS\JunitPruebas"/>
+    <property name="user.dir" value="E:\code\EDESARR\ENTORNOS_DESARROLLO\UD5PRUEBAS\JunitPruebas"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testPrecioFinal1" classname="pruebasjunit.CocheTest" time="0.041"/>
-  <testcase name="testPrecioFinal2" classname="pruebasjunit.CocheTest" time="0"/>
+  <testcase name="testPrecioFinal1" classname="pruebasjunit.CocheTest" time="0.042"/>
+  <testcase name="testPrecioFinal2" classname="pruebasjunit.CocheTest" time="0.001"/>
   <testcase name="testPrecioFinal3" classname="pruebasjunit.CocheTest" time="0.003"/>
 </testsuite>
