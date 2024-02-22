@@ -120,8 +120,6 @@ public class CuentaTest {
         Cuenta cuenta1 = new Cuenta("ES011234",100); 
         System.out.println("mostrarCuenta");
         cuenta1.mostrarCuenta();
-        // TODO review the generated test code and remove the default call to fail.
-        // fail("The test case is a prototype.");
     }
     
 }
